@@ -1,0 +1,40 @@
+Architecture Design system for Inventory Management:
+
+- Presentation Layer [Presentation Layer] - Presentation Component
+- Business Layer [Business Layer] - Business Component 
+- Services Layer [Shared Component]
+- Persistence Layer[] 
+- Database Layer []
+
+Business and service layer can access the persistence layer
+
+Backend: 
+- C++
+
+Database:
+- MySQL
+
+Storage:
+- Local Storage
+- Cloud Deployment
+- Virtual machine 
+
+Caching:
+- 
+
+Visualization: Jupyter Notebook/Power BI, 
+
+Sample Data Sets:
+
+API
+- API layer for connecting different databases - Order Placement[Modules], Payment[Modules], Inventory[Modules] 
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+Specifications:
+
+-Total Products, Stock Items, Total Inventory Value, Total Stock Units
+-Dashboards, Products, Transactions, Supplies
+-Features: Transaction ID, Product, Quantity, Total Amount, Date 
+-Report Generation on monthly basis  - Report contains: Graph view of data, distribution along pie chart, stock alert  
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------

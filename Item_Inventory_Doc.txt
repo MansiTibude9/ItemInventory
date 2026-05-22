@@ -1,0 +1,26 @@
+Item Inventory Documentation:
+
+1.Design Structure
+
+2.Programming Languages
+
+3.Architech Methodology
+
+4.User and Installation guide 
+
+5. Customer Centric Project
+
+6. Deployment
+
+7. Testing
+
+8. Development
+
+9. AI Integration
+
+10. Cloud Integration 
+
+11. Testing Data Sample 
+
+12. Budget 
+
