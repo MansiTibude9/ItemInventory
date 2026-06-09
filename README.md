@@ -1,2 +1,2 @@
 # ItemInventory
-The Item-Inventory project is about the storing, managing and maintaining data of Inventory (warehouse).
+The Item-Inventory project is about the storing, managing and maintaining data of Inventory (warehouse). The inventory should be of any items currently not specified and this inventory in future will handle large amount of data might be millions of data. Item Inventory can be used in stock marketing, handling million's of user data and many more things. Our upcoming features will give you more wide variety of funtionalities as per the requirement.
