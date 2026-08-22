@@ -1,1 +1,4 @@
+- C++ is mostly used for faster executions as the computing speed of the c++ is best 
+- Complex coding in C++ brings the most security in the code 
+- Software Architecture designed using mermaid
 
