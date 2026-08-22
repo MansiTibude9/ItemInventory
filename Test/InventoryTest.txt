@@ -1,1 +1,5 @@
-
+- Database Testing: 
+- Back-end Testing: 
+- Front-end Testing:
+- API Testing: Postman API 
+- OS Compatibility: Windows, Ubuntu
