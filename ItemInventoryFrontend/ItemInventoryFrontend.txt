@@ -1,1 +1,7 @@
-
+- Basic User Interface for easy to use functionality 
+- Programming Languages - JavaScript, HTML, CSS
+- Frameworks - Angular / Vue3
+- Responsive Web Design - Agile model 
+- Caching -
+- Session Storage -
+- Local Storage - 
