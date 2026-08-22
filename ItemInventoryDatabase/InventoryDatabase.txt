@@ -6,5 +6,6 @@
 - Flow for checking which entity is connected with which entity - differentiating primary keys and foreign keys 
 - Authentication and Authorization for database access and the authorization depends on role based access
 - Load Balancer - For managing the large amount of data on servers along with distributed systems 
+- Database Replication on two platforms for backup or any changes that causes the major negative changes, we will use fault tolerance 
 
 
