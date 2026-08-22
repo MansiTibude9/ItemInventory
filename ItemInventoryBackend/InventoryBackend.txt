@@ -1,4 +1,9 @@
 - C++ is mostly used for faster executions as the computing speed of the c++ is best 
 - Complex coding in C++ brings the most security in the code 
 - Software Architecture designed using mermaid
+- Compatibility issues with operating systems to check working in local machines - targeting OS - Windows, Ubuntu
+- For improving the execution speed, we will check for CPU configuration 
+- Data format for data conversion - for user readable format - XML, JSON
+- Designing methodology - SOLID Principles for designing and further, we will check for efficiency comparison among the different designing methodology 
+
 
