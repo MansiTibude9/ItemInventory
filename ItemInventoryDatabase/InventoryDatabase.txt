@@ -5,4 +5,6 @@
 - Finding the most effective way for fastest way of executing the inventory operations 
 - Flow for checking which entity is connected with which entity - differentiating primary keys and foreign keys 
 - Authentication and Authorization for database access and the authorization depends on role based access
+- Load Balancer - For managing the large amount of data on servers along with distributed systems 
+
 
