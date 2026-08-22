@@ -1,1 +1,6 @@
+- CRUD operation will be performed using API calls
+- Different types of API calls are used for database fetching 
+- API operation in inventory especially fetching data from database is fetched my Database Server 
+- For testing, Postman API is used for checking the URL and API working 
+- Firstly, we will test the API's in local by using PORT and then, we will deploy it cloud or any server 
 
