@@ -1,5 +1,5 @@
 - Database Testing: 
 - Back-end Testing: 
-- Front-end Testing:
+- Front-end Testing: Swagger UI
 - API Testing: Postman API 
 - OS Compatibility: Windows, Ubuntu
