@@ -5,6 +5,8 @@ The Item-Inventory project is about the storing, managing and maintaining data o
 Database Features:
 - Authentication and Authorization
 - Access control on the basis of privilege
+- Managing millions of data  - distributed systems
+  
 
 Targeting Industry:
 
