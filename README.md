@@ -9,4 +9,7 @@ Database Features:
   
 
 Targeting Industry:
+- Warehouse management
+- Manufacturing industries especially factory outlet industry
+
 
