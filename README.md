@@ -6,10 +6,13 @@ Database Features:
 - Authentication and Authorization
 - Access control on the basis of privilege
 - Managing millions of data  - distributed systems
-  
+- Layered Architecture will be used for developing the application
+- Designing the database architecture - keeping in mind for making most efficient and high computing application
 
 Targeting Industry:
 - Warehouse management
 - Manufacturing industries especially factory outlet industry
+- Millions of data will be there - for handling this we need to find the technology
+  
 
 
