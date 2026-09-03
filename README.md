@@ -13,6 +13,7 @@ Targeting Industry:
 - Warehouse management
 - Manufacturing industries especially factory outlet industry
 - Millions of data will be there - for handling this we need to find the technology
+- Stock Marketing and trading platforms
   
 
 
