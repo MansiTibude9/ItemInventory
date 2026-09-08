@@ -14,6 +14,16 @@ Targeting Industry:
 - Manufacturing industries especially factory outlet industry
 - Millions of data will be there - for handling this we need to find the technology
 - Stock Marketing and trading platforms
+
+SDLC (Software Development Life Cycle): Different phases for development:
+1.Requirements 
+2.Specifications
+3.Analysis and Design
+4.Implementation
+5.Test
+6.Release
+7.Maintenance
+
   
 
 
