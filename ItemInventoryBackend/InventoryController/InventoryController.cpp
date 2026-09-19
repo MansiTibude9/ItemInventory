@@ -10,7 +10,7 @@ class InventoryController
 //showItems()
 //login()
 // id, name, phonenumber, email - Users
-// itemID, name, type, price - Items
+// itemID, name, type, price, No of items, price/amount - Items
 }
 int main()
 {
