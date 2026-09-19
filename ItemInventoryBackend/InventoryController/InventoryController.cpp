@@ -3,12 +3,14 @@ using namespace std;
 
 class InventoryController
 {
-//edit
-//add
-//delete
-//search
-//showItems
-//login
+//edit()
+//add()
+//delete()
+//search()
+//showItems()
+//login()
+// id, name, phonenumber, email - Users
+// itemID, name, type, price - Items
 }
 int main()
 {
