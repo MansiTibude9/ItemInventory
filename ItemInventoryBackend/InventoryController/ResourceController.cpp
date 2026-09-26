@@ -8,7 +8,8 @@ class InventoryController
 // Methods - Get, Set, and Editing 
 // Event Types - Name, Events, eventInfo - Trigger for deployment, Execute, Generate, Remove
 // Event Sink - Allocated memory release - after triggering the event 
-// Order - Add, Edit, Delete, Show Inventory, Show order details 
+// Order - Add, Edit, Delete, Show Inventory, Show order details
+// Port Connection among the objects for communication
 }
 int main()
 {
